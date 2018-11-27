@@ -1,4 +1,4 @@
-def reverse_each_word(sentence1, sentence2)
+def reverse_each_word(sentence)
   current_string = 
   end
 end
