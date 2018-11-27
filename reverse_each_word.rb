@@ -10,6 +10,6 @@ end
 def reverse_each_word(sentences)
   split_sentences = sentences.split(" ")
   split_sentences.collect do |sentence|
-    sentence.reverse
+    my_strings << sentence.reverse
   end
 end
